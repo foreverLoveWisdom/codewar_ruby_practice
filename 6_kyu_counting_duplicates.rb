@@ -14,13 +14,9 @@
 def duplicate_count(text)
   return 0 if text.empty?
 
-  hash = {}
+  hash = Hash.new { 0 }
   text.split('').map(&:downcase).map(&:to_sym).each do |char|
-    if hash[char]
-      hash[char] += 1
-    else
-      hash[char] = 1
-    end
+    hash[char] += 1
   end
 
   hash.count { |_, v| v >= 2 }
