@@ -1,7 +1,7 @@
 # Create a method drop_while that accepts a list and a block, and returns a copy of the list that skips over elements from the left, for as long as the given block returns true.
 
 # Time complexity: O(n)
-# Space complexity: O(n)
+# Space complexity: O(1)
 # I know there is a built-in drop_while method in the Enumerable Module. Just wanna implement it for fun
 
 def drop_while(list, &block)

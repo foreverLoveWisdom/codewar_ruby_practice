@@ -6,4 +6,5 @@ drop_while	7_kyu_implement_drop_while.rb	/^def drop_while(list, &block)$/;"	f	cl
 duplicate_count	6_kyu_counting_duplicates.rb	/^def duplicate_count(text)$/;"	f	class:Object
 find_it	6_kyu_find_the_odd_int.rb	/^def find_it(seq)$/;"	f	class:Object
 find_it	6_kyu_find_the_odd_int.rb	/^def find_it(seq)$/;"	f	class:Object
+friend	7_kyu_friend_or_foe.rb	/^def friend(friends)$/;"	f	class:Object
 row_sum_odd_numbers	7_kyu_sum_of_odd_numbers.rb	/^def row_sum_odd_numbers(n)$/;"	f	class:Object
