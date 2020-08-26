@@ -1,4 +1,5 @@
 !_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
 !_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
 count_sheeps	8_ryu_counting_sheep.rb	/^def count_sheeps(array)$/;"	f	class:Object
+duplicate_count	6_kyu_counting_duplicates.rb	/^def duplicate_count(text)$/;"	f	class:Object
 row_sum_odd_numbers	7_kyu_sum_of_odd_numbers.rb	/^def row_sum_odd_numbers(n)$/;"	f	class:Object
