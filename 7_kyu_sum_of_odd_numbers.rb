@@ -22,5 +22,6 @@ def row_sum_odd_numbers(n)
     first_num += 2
     result += first_num
   end
+
   result
 end
