@@ -20,7 +20,7 @@ def duplicate_count(text)
       hash[char] += 1
     else
       hash[char] = 1
-      end
+    end
   end
 
   hash.count { |_, v| v >= 2 }
