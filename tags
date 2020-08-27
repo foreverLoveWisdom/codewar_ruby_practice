@@ -8,5 +8,6 @@ find_it	6_kyu_find_the_odd_int.rb	/^def find_it(seq)$/;"	f	class:Object
 find_it	6_kyu_find_the_odd_int.rb	/^def find_it(seq)$/;"	f	class:Object
 friend	7_kyu_friend_or_foe.rb	/^def friend(friends)$/;"	f	class:Object
 get_count	7_kyu_vowels_count.rb	/^def get_count(input_str)$/;"	f	class:Object
+likes	6_kyu_who_likes_it.rb	/^def likes(names)$/;"	f	class:Object
 map	8_kyu_implement_map.rb	/^def map(list, &block)$/;"	f	class:Object
 row_sum_odd_numbers	7_kyu_sum_of_odd_numbers.rb	/^def row_sum_odd_numbers(n)$/;"	f	class:Object

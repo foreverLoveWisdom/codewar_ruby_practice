@@ -4,6 +4,8 @@
 
 # The input string will only consist of lower case letters and/or spaces.
 
+# Time complexity: O(n)
+
 def get_count(input_str)
   input_str.scan(/[euoai]/).size
 end
