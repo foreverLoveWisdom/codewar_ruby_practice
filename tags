@@ -2,6 +2,7 @@
 !_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
 comp	6_kyu_are_they_the_same.rb	/^def comp(array1, array2)$/;"	f	class:Object
 count_sheeps	8_ryu_counting_sheep.rb	/^def count_sheeps(array)$/;"	f	class:Object
+digital_root	6_kyu_sum_of_digits.rb	/^def digital_root(n)$/;"	f	class:Object
 drop_while	7_kyu_implement_drop_while.rb	/^def drop_while(list, &block)$/;"	f	class:Object
 duplicate_count	6_kyu_counting_duplicates.rb	/^def duplicate_count(text)$/;"	f	class:Object
 find_it	6_kyu_find_the_odd_int.rb	/^def find_it(seq)$/;"	f	class:Object
